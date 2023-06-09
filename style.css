@@ -37,6 +37,7 @@ body {
     color: aliceblue;
     border-radius: 5px;
 
+
 }
 
 .donate-count {
@@ -118,4 +119,27 @@ body {
 
 .color-cng-2 {
     background-color: #FFF4D6;
+}
+
+.contribute {
+    display: flex;
+    padding: 0 200px;
+
+}
+
+.contribute-left h2 {
+    font-size: 40px;
+}
+
+.contribute img {
+    width: 50%;
+
+}
+
+.para {
+    margin-bottom: 50px;
+}
+
+.contribute2 img {
+    margin-right: 50px
 }
