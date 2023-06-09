@@ -182,3 +182,20 @@ body {
     padding: 50px 300px;
     margin: 50px 250px 0 250px;
 }
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 20px 0;
+
+}
+
+footer h2 {
+    color: #FF5959;
+
+}
+
+footer small {
+    color: white;
+
+}
