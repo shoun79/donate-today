@@ -79,3 +79,43 @@ body {
     text-align: center;
     color: #DADADA;
 }
+
+.donate-plan-top {
+    text-align: center;
+}
+
+.donate-plan-top h2 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.donate-plan-cart {
+    display: flex;
+    padding: 0 200px;
+    justify-content: space-around;
+    margin-top: 50px;
+
+
+
+}
+
+.donate-plan-single {
+    background-color: #EDF5F6;
+    margin-right: 15px;
+    padding: 25px 20px;
+}
+
+
+
+.donate-plan-single p {
+    font-size: 14px;
+
+}
+
+.color-cng-1 {
+    background-color: #FFEEEE;
+}
+
+.color-cng-2 {
+    background-color: #FFF4D6;
+}
