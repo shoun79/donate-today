@@ -3,3 +3,34 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.top-banner {
+    background-image: url(images/donation5.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 200px 0;
+    opacity: 1.5;
+
+}
+
+.top-banner-content {
+    text-align: center;
+    color: white;
+}
+
+.top-banner-content h1 {
+    font-size: 60px;
+}
+
+.top-banner-content p {
+    margin-bottom: 40px;
+}
+
+.link-btn {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 12px 30px;
+    color: aliceblue;
+    border-radius: 5px;
+
+}
