@@ -4,6 +4,10 @@ body {
     padding: 0;
 }
 
+.section-padding {
+    margin-bottom: 100px;
+}
+
 .top-banner {
     background-image: url(images/donation5.jpg);
     background-position: center;
@@ -33,4 +37,45 @@ body {
     color: aliceblue;
     border-radius: 5px;
 
+}
+
+.donate-count {
+    text-align: center;
+}
+
+.donate-count h2 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.donate-tk {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 200px;
+    margin-top: 50px;
+}
+
+.donate-tk-single {
+    background-color: #FAFAFA;
+    padding: 25px 35px;
+    color: #707070;
+}
+
+.donate-input {
+    margin-bottom: 50px;
+}
+
+.donate-input input {
+    border: none;
+    outline: 5px;
+    border-bottom: 1px solid #DADADA;
+    width: 600px;
+    margin-top: 50px;
+    padding: 5px 0;
+
+}
+
+.donate-input input::placeholder {
+    text-align: center;
+    color: #DADADA;
 }
